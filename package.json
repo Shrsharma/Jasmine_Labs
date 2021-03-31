@@ -1,0 +1,19 @@
+{
+  "name": "jasmine_labs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jasmine"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Shrsharma/Jasmine_Labs.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Shrsharma/Jasmine_Labs/issues"
+  },
+  "homepage": "https://github.com/Shrsharma/Jasmine_Labs#readme"
+}
